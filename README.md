@@ -1,5 +1,3 @@
-# Documentation #
-
 afmicc.GetterAndSetterGenerator
 amiralizadeh9480.laravel-extra-intellisense
 austenc.laravel-blade-spacer
@@ -22,6 +20,7 @@ onecentlin.laravel5-snippets
 ritwickdey.live-sass
 ritwickdey.LiveServer
 ryannaddy.laravel-artisan
+Shan.code-settings-sync
 xabikos.JavaScriptSnippets
 ysemeniuk.emmet-live
 zobo.php-intellisense
